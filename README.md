@@ -3,7 +3,6 @@ Everything about computers finds my interest. So I deal with programming in diff
 Recently I've been trying to make the program [SourceMonitor], originally by [Jim Wanner], [Campwood Software LTD], an open source project. Any kind of help is welcome here.
 
 | ![ThirtySomething's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThirtySomething&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThirtySomething)](https://github.com/anuraghazra/github-readme-stats) |
-| ---------- | ---------- |
 
 These information graphics are created using Anurag Hazra [widgets][anuraghazra].
 
