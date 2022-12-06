@@ -9,7 +9,14 @@ Recently I've been trying to make the program [SourceMonitor], originally by [Ji
 
 These information graphics are created using Anurag Hazra [widgets][anuraghazra].
 
+<p>
+![Metrics](https://metrics.lecoq.io/ThirtySomething?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FBerlin)  
+ </p>
+
+These information are down using Simon Lecoq [widgets][lowlighter].
+
 [anuraghazra]: https://github.com/anuraghazra/github-readme-stats
+[lowlighter]: https://github.com/lowlighter/metrics
 [Campwood Software LTD]: https://www.campwoodsw.com/sourcemonitor.html
 [Jim Wanner]: https://campwoodsw.com/emcomp/about-us/
 [SourceMonitor]: https://github.com/SourceMonitor/SM-Info
