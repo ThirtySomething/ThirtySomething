@@ -3,6 +3,6 @@ Everything about computers finds my interest. So I deal with programming in diff
 Recently I've been trying to make the program [SourceMonitor], originally by [Jim Wanner], [Campwood Software LTD], an open source project. Any kind of help is welcome here.
 
 
-[Campwood Software LTD]: https://www.campwoodsw.com/sourcemonitor.html
-[Jim Wanner]: https://campwoodsw.com/emcomp/about-us/
+[Campwood Software LTD]: https://www.campwoodsw.com
+[Jim Wanner]: https://campwoodsw.com/emcomp/about
 [SourceMonitor]: https://github.com/SourceMonitor/SM-Info
